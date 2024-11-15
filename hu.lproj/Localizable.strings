@@ -1,0 +1,16 @@
+/* 
+  Localization.strings
+  Ethernet Menubar
+
+  Created by Victor Lobe on 17.01.21.
+  Translated by Vilmos Molnár on 2025.11.15
+  
+*/
+"Connected" = "Kapcsolódva";
+"Not available" = "Nem elérhető";
+"Connected, no internet access" = "Kapcsolódva, nincs internet-hozzáférés";
+"No cable connected" = "Nincs kábel csatlakoztatva";
+"Do not launch at login" = "Ne induljon el bejelentkezéskor";
+"Launch at login" = "Indítás bejelentkezéskor";
+"Quit" = "Kilépés";
+"Open Network Preferences ..." = "Hálózati beállítások megnyitása...";
